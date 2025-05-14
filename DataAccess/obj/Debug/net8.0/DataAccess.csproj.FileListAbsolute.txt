@@ -1,4 +1,5 @@
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\AAlkhreet\source\Greenhouse\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\bin\Debug\net8.0\DataAccess.dll
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\bin\Debug\net8.0\DataAccess.pdb
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\bin\Debug\net8.0\Domain.dll
@@ -8,8 +9,10 @@ C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\DataAccess.Gene
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\DataAccess.dll
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
 C:\Users\AAlkhreet\source\Greenhouse\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

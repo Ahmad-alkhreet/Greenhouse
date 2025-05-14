@@ -40,7 +40,7 @@ namespace DataAccess.Repositories
         {
             using (var connection = await _dbHelper.GetConnectionAsync())
             {
-                var query = "SELECT id, location, type FROM sensors WHERE id = @Id";
+                var query = "SELECT id, location, type, buildingId FROM sensors WHERE id = @Id";
                 using (var command = new MySqlCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@Id", id);
@@ -51,13 +51,14 @@ namespace DataAccess.Repositories
                             return new Sensor(
                                 reader.GetInt32(0),
                                 reader.GetString(1),
-                                reader.GetString(2)
+                                reader.GetString(2),
+                                reader.GetInt32(3)
                             );
                         }
                     }
                 }
             }
-            return null; // Sensor niet gevonden
+            return null;
         }
 
         public async Task AddAsync(Sensor sensor)
@@ -66,10 +67,12 @@ namespace DataAccess.Repositories
 
             using (var connection = await _dbHelper.GetConnectionAsync())
             {
-                using (var command = new MySqlCommand("INSERT INTO Sensors (Location, Type) VALUES (@Location, @Type)", connection))
+                var query = "INSERT INTO Sensors (Location, Type, BuildingId) VALUES (@Location, @Type, @BuildingId)";
+                using (var command = new MySqlCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@Location", sensor.GetLocation());
                     command.Parameters.AddWithValue("@Type", sensor.GetType());
+                    command.Parameters.AddWithValue("@BuildingId", sensor.GetBuildingId());
 
                     int rowsAffected = await command.ExecuteNonQueryAsync();
                     if (rowsAffected > 0)
@@ -111,17 +114,17 @@ namespace DataAccess.Repositories
         {
             using (var connection = await _dbHelper.GetConnectionAsync())
             {
-                using (var command = new MySqlCommand("UPDATE sensors SET location = @Location, type = @Type WHERE id = @Id", connection))
+                var query = "UPDATE sensors SET location = @Location, type = @Type, buildingId = @BuildingId WHERE id = @Id";
+                using (var command = new MySqlCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@Id", sensor.GetId());
                     command.Parameters.AddWithValue("@Location", sensor.GetLocation());
                     command.Parameters.AddWithValue("@Type", sensor.GetType());
+                    command.Parameters.AddWithValue("@BuildingId", sensor.GetBuildingId());
 
                     await command.ExecuteNonQueryAsync();
                 }
             }
-
-
         }
     }
 }

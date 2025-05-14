@@ -24,20 +24,19 @@ namespace Service
             return await _sensorRepository.GetByIdAsync(id);
         }
 
-        public async Task AddSensorAsync(string location, string type)
+        public async Task AddSensorAsync(string location, string type, int buildingId)
         {
-            var sensor = new Sensor(0, location, type);
+            var sensor = new Sensor(0, location, type, buildingId);
             await _sensorRepository.AddAsync(sensor);
         }
 
-        public async Task UpdateSensorAsync(int id, string location, string type)
+        public async Task UpdateSensorAsync(int id, string location, string type, int buildingId)
         {
-            var sensor = await _sensorRepository.GetByIdAsync(id);
-            if (sensor != null)
+            var existingSensor = await _sensorRepository.GetByIdAsync(id);
+            if (existingSensor != null)
             {
-                sensor.SetLocation(location);
-                sensor.SetType(type);
-                await _sensorRepository.UpdateAsync(sensor);
+                var updatedSensor = new Sensor(id, location, type, buildingId);
+                await _sensorRepository.UpdateAsync(updatedSensor);
             }
         }
 

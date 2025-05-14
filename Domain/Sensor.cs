@@ -32,5 +32,20 @@ namespace Domain
         {
             return new List<Measurement>(Measurements);
         }
+
+
+
+        private int BuildingId { get; set; }
+
+        public int GetBuildingId() => BuildingId;
+
+        public Sensor(int id, string location, string type, int buildingId)
+        {
+            Id = id;
+            Location = location;
+            Type = type;
+            BuildingId = buildingId;
+        }
+
     }
 }

@@ -1,4 +1,5 @@
 C:\Users\AAlkhreet\source\Greenhouse\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\AAlkhreet\source\Greenhouse\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
 C:\Users\AAlkhreet\source\Greenhouse\Domain\bin\Debug\net8.0\Domain.dll
 C:\Users\AAlkhreet\source\Greenhouse\Domain\bin\Debug\net8.0\Domain.pdb
 C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
@@ -6,7 +7,9 @@ C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\Domain.GeneratedMSB
 C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
 C:\Users\AAlkhreet\source\Greenhouse\Domain\obj\Debug\net8.0\ref\Domain.dll

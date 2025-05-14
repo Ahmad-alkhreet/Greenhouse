@@ -7,56 +7,80 @@
       "RelativeMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4113A15B-2194-4F4D-9F55-E891DE1FFAC8}|UnitTest_greenhous.1\\UnitTest_greenhous.1.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\unittest_greenhous.1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4113A15B-2194-4F4D-9F55-E891DE1FFAC8}|UnitTest_greenhous.1\\UnitTest_greenhous.1.csproj|solutionrelative:unittest_greenhous.1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\domain\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|solutionrelative:domain\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\service\\measurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|solutionrelative:service\\measurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\domain\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|solutionrelative:domain\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\domain\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|solutionrelative:domain\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\dataaccess\\repositories\\sensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\sensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\sensors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\sensors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\sensors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\sensors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\service\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|solutionrelative:service\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\dataaccess\\repositories\\measurementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\measurementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\sensors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\sensors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\sensors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\sensors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\sensors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\sensors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\service\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|solutionrelative:service\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\domain\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|solutionrelative:domain\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\domain\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|solutionrelative:domain\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\sensors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\sensors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\sensors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\sensors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\sensors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -67,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\sensors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -79,20 +99,8 @@
       "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\dataaccess\\repositories\\measurementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA0D1CE-9E05-4B2F-A434-CA0B3C5C2345}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\measurementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|solutionrelative:greenhouse\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\service\\measurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14742D37-89FE-469C-B85C-4026EFFB57FD}|Service\\Service.csproj|solutionrelative:service\\measurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\domain\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF3B8A50-84B1-4844-8826-B6A2414C60A0}|Domain\\Domain.csproj|solutionrelative:domain\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BAEA611-C4D2-418B-869E-DF3F9A3DB069}|Greenhouse\\UIPresentation.csproj|c:\\users\\aalkhreet\\source\\greenhouse\\greenhouse\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -106,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 220,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,98 +134,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\UnitTest_greenhous.1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest_greenhous.1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\UnitTest_greenhous.1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest_greenhous.1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:19:53.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "SensorRepository.cs",
               "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\Repositories\\SensorRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\SensorRepository.cs",
               "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\Repositories\\SensorRepository.cs",
               "RelativeToolTip": "DataAccess\\Repositories\\SensorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T10:45:41.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Greenhouse\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Greenhouse\\Pages\\Index.cshtml",
-              "ViewState": "AgIAADUAAAAAAAAAAAAuwFoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T11:55:20.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DatabaseHelper.cs",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\DatabaseHelper.cs",
-              "RelativeDocumentMoniker": "DataAccess\\DatabaseHelper.cs",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\DatabaseHelper.cs",
-              "RelativeToolTip": "DataAccess\\DatabaseHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\Building.cs",
+              "RelativeDocumentMoniker": "Domain\\Building.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\Building.cs",
+              "RelativeToolTip": "Domain\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:25:43.514Z",
+              "WhenOpened": "2025-05-14T19:58:05.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\AppDbContext.cs",
-              "RelativeToolTip": "DataAccess\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:00:02.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "Service\\UserService.cs",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\UserService.cs",
-              "RelativeToolTip": "Service\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:56:23.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Greenhouse\\Pages\\Sensors\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Create.cshtml.cs",
               "RelativeToolTip": "Greenhouse\\Pages\\Sensors\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T11:56:50.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Greenhouse\\Pages\\Sensors\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Edit.cshtml",
-              "RelativeToolTip": "Greenhouse\\Pages\\Sensors\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T14:21:10.824Z",
+              "DocumentIndex": 7,
+              "Title": "MeasurementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\Repositories\\MeasurementRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\MeasurementRepository.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\Repositories\\MeasurementRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\MeasurementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:55:37.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:55:46.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\Sensor.cs",
+              "RelativeDocumentMoniker": "Domain\\Sensor.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\Sensor.cs",
+              "RelativeToolTip": "Domain\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:43:52.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\UserRole.cs",
               "RelativeDocumentMoniker": "Domain\\UserRole.cs",
@@ -230,7 +238,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\DatabaseHelper.cs",
+              "RelativeToolTip": "DataAccess\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:25:43.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeasurementService.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\MeasurementService.cs",
+              "RelativeDocumentMoniker": "Service\\MeasurementService.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\MeasurementService.cs",
+              "RelativeToolTip": "Service\\MeasurementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:56:13.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:56:23.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SensorService.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\SensorService.cs",
+              "RelativeDocumentMoniker": "Service\\SensorService.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\SensorService.cs",
+              "RelativeToolTip": "Service\\SensorService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:46:00.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\User.cs",
               "RelativeDocumentMoniker": "Domain\\User.cs",
@@ -243,65 +303,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sensor.cs",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\Sensor.cs",
-              "RelativeDocumentMoniker": "Domain\\Sensor.cs",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\Sensor.cs",
-              "RelativeToolTip": "Domain\\Sensor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:43:52.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAhwC0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:55:46.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Create.cshtml",
-              "RelativeDocumentMoniker": "Greenhouse\\Pages\\Sensors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Create.cshtml",
-              "RelativeToolTip": "Greenhouse\\Pages\\Sensors\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T11:56:48.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SensorService.cs",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\SensorService.cs",
-              "RelativeDocumentMoniker": "Service\\SensorService.cs",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\SensorService.cs",
-              "RelativeToolTip": "Service\\SensorService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvx0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:46:00.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Greenhouse\\Pages\\Sensors\\Edit.cshtml.cs",
               "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Edit.cshtml.cs",
               "RelativeToolTip": "Greenhouse\\Pages\\Sensors\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T14:21:23.128Z",
               "EditorCaption": ""
@@ -309,27 +317,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Greenhouse\\Pages\\Sensors\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Delete.cshtml",
-              "RelativeToolTip": "Greenhouse\\Pages\\Sensors\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T13:45:36.909Z",
+              "Title": "Measurement.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\Measurement.cs",
+              "RelativeDocumentMoniker": "Domain\\Measurement.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\Measurement.cs",
+              "RelativeToolTip": "Domain\\Measurement.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:53:24.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Greenhouse\\Pages\\Sensors\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Delete.cshtml.cs",
-              "RelativeToolTip": "Greenhouse\\Pages\\Sensors\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T13:45:46.885Z",
+              "WhenOpened": "2025-03-18T11:00:02.876Z",
               "EditorCaption": ""
             },
             {
@@ -348,6 +356,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Greenhouse\\Pages\\Sensors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Create.cshtml",
+              "RelativeToolTip": "Greenhouse\\Pages\\Sensors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T11:56:48.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Greenhouse\\Pages\\Sensors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Edit.cshtml",
+              "RelativeToolTip": "Greenhouse\\Pages\\Sensors\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T14:21:10.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Greenhouse\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Greenhouse\\Pages\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwFoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T11:55:20.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Greenhouse\\Pages\\Sensors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Delete.cshtml",
+              "RelativeToolTip": "Greenhouse\\Pages\\Sensors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T13:45:36.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Greenhouse\\Pages\\Sensors\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Pages\\Sensors\\Delete.cshtml.cs",
+              "RelativeToolTip": "Greenhouse\\Pages\\Sensors\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:45:46.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\appsettings.json",
               "RelativeDocumentMoniker": "Greenhouse\\appsettings.json",
@@ -360,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\Program.cs",
               "RelativeDocumentMoniker": "Greenhouse\\Program.cs",
@@ -373,20 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MeasurementRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\Repositories\\MeasurementRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\MeasurementRepository.cs",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\DataAccess\\Repositories\\MeasurementRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\MeasurementRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:55:37.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Greenhouse\\wwwroot\\css\\site.css",
@@ -399,33 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MeasurementService.cs",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\MeasurementService.cs",
-              "RelativeDocumentMoniker": "Service\\MeasurementService.cs",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Service\\MeasurementService.cs",
-              "RelativeToolTip": "Service\\MeasurementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:56:13.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Measurement.cs",
-              "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\Measurement.cs",
-              "RelativeDocumentMoniker": "Domain\\Measurement.cs",
-              "ToolTip": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Domain\\Measurement.cs",
-              "RelativeToolTip": "Domain\\Measurement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:53:24.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\AAlkhreet\\source\\Greenhouse\\Greenhouse\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Greenhouse\\appsettings.Development.json",
